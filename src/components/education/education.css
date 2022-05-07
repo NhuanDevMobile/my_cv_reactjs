@@ -76,6 +76,8 @@
 .main-timeline .icon{
     float: left;
     margin-right: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
     font-size: 70px;
     color: #f4a24c;
 }
